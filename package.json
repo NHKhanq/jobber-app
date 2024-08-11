@@ -15,7 +15,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "jobber-app",
+  "name": "@NHKhanq/jobber-app",
   "author": "NHKhanq",
   "repository": {
     "type": "git",
