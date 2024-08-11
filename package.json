@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "types": "./src/index.d.ts",
   "description": "",
@@ -15,7 +15,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "jobber-app",
+  "name": "@NHKhanq/jobber-app",
   "author": "NHKhanq",
   "repository": {
     "type": "git",
